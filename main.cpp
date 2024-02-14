@@ -3,9 +3,7 @@
 #include<functional>
 #include<iostream>
 
-
 using namespace std;
-
 
 void display(int i) { cout << i << endl; }
 
@@ -14,7 +12,6 @@ void DivisionThree(int num) {
 	std::cout << "thread " << num << std::endl;
 
 }
-
 
 void SubtractionOne(int num) {
 	num -= 1;
