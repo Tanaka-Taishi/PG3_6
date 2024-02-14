@@ -4,20 +4,6 @@
 #include<iostream>
 
 
-//#include<algorithm>
-//#include<vector>
-//#include<list>
-//#include<array>
-
-//void Double(int num) {
-//	num *= 2;
-//	printf("num * 2: %d\n", num);
-//}
-//void AddTwo(int num) {
-//	num += 2;
-//	printf("num + 2: %d\n", num);
-//}
-
 using namespace std;
 
 
@@ -28,6 +14,7 @@ void DivisionThree(int num) {
 	std::cout << "thread " << num << std::endl;
 
 }
+
 
 void SubtractionOne(int num) {
 	num -= 1;
